@@ -1,0 +1,10 @@
+C:\Users\mh800\source\repos\AreaTestingProject\bin\Debug\AreaTestingProject.exe.config
+C:\Users\mh800\source\repos\AreaTestingProject\bin\Debug\AreaTestingProject.exe
+C:\Users\mh800\source\repos\AreaTestingProject\bin\Debug\AreaTestingProject.pdb
+C:\Users\mh800\source\repos\AreaTestingProject\obj\Debug\AreaTestingProject.csproj.AssemblyReference.cache
+C:\Users\mh800\source\repos\AreaTestingProject\obj\Debug\AreaTestingProject.csproj.CoreCompileInputs.cache
+C:\Users\mh800\source\repos\AreaTestingProject\obj\Debug\AreaTestingProject.exe
+C:\Users\mh800\source\repos\AreaTestingProject\obj\Debug\AreaTestingProject.pdb
+C:\Users\mh800\source\repos\AreaTestingProject\bin\Debug\nunit.framework.dll
+C:\Users\mh800\source\repos\AreaTestingProject\bin\Debug\nunit.framework.xml
+C:\Users\mh800\source\repos\AreaTestingProject\obj\Debug\AreaTestingProject.csproj.CopyComplete
